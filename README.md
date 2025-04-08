@@ -1,2 +1,2 @@
 # 8-puzzle-DAA-
-Arcana in boss
+So this is our project for Design and Analysis of Algorithms course. 
